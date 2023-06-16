@@ -1,0 +1,114 @@
+user registers / logs in:
+                       --> In Rapid format : Load all 5 player planets in JSON:
+                                            --> 0. Front end only displays all planets coords expect first initial planet
+                                            --> 1.  Load initial planet information (selected planet) :
+                                                [ planet name, silo resources, player gold, planet notifications, forge activity, structure upgrades]
+
+                                            Structure selection:
+                                            --> 2. Load planet structures info:
+                                                structure Json: [name, level, upgrade time, required resources, health, population, upgrade status ]
+
+                                            --> 3. Load planet forge info:
+                                                forge Json: [ name, quantity available, quantity queued, quantity in fleet, construction time, required resources]
+
+                                            --> 4. Load Map
+                                                map Json: List of all occupied planets by level of current planet map
+                                                    --->  Map will auto generate unpopulated outposts
+
+                                            -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
